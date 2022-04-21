@@ -28,7 +28,7 @@ namespace MvcMovie.Models
                        Gender="女",
                        Age=20,
                        BirthDate= DateTime.Parse("2000-4-15"),
-                       Phone ="15847047563",
+                       Phone ="1584704756312",
                        Temperature="36.5",
                        Date= DateTime.Parse("2022-4-16")
                     },
@@ -38,7 +38,7 @@ namespace MvcMovie.Models
                          Gender = "男",
                          Age = 20,
                          BirthDate = DateTime.Parse("2000-4-15"),
-                         Phone = "15847047563",
+                         Phone = "1584704756333",
                          Temperature = "36.5",
                          Date = DateTime.Parse("2022-4-16")
                      },
@@ -48,7 +48,7 @@ namespace MvcMovie.Models
                           Gender = "女",
                           Age = 20,
                           BirthDate = DateTime.Parse("2000-4-15"),
-                          Phone = "15847047563",
+                          Phone = "1584704756333",
                           Temperature = "36.5",
                           Date = DateTime.Parse("2022-4-16")
                       },
@@ -58,7 +58,7 @@ namespace MvcMovie.Models
                            Gender = "男",
                            Age = 20,
                            BirthDate = DateTime.Parse("2000-4-15"),
-                           Phone = "15847047563",
+                           Phone = "1584704756322",
                            Temperature = "36.5",
                            Date = DateTime.Parse("2022-4-16")
                        }
